@@ -10,7 +10,8 @@
 class CusSequence {
     constructor() {
         this.list = [];
-        this.status = 'stop'
+        this.status = 'stop';
+        return 'CusSequence';
     }
 
     push(task) {
