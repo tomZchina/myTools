@@ -1,4 +1,3 @@
-import checkAct from './checkAct';
 import CusSequence from './cusSequence';
 
 // document.querySelectorAll('input').forEach((val) => { 
